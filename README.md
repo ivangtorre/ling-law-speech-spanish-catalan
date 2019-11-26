@@ -5,6 +5,8 @@ Free to use citing:
 
 Hernández-Fernández, A.; Torre, I.G.; Garrido, J.-M.; Lacasa, L. Linguistic Laws in Speech: The Case of Catalan and Spanish. Entropy 2019, 21, 1153.; https://doi.org/10.3390/e21121153
 
+https://www.mdpi.com/1099-4300/21/12/1153
+
 # Install requirements
 pip3 install -r requirements.txt
 
