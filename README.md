@@ -2,7 +2,8 @@
 Supporting script for reproducying all the results and figures in submitted publication and its Suplementary Information
 
 Free to use citing:
-Hernández-Fernández Antoni, Torre Iván G., Juan-María Garrido and Lacasa Lucas. Linguistic laws in speech: the case of Catalan and Spanish.
+
+Hernández-Fernández, A.; Torre, I.G.; Garrido, J.-M.; Lacasa, L. Linguistic Laws in Speech: The Case of Catalan and Spanish. Entropy 2019, 21, 1153.; https://doi.org/10.3390/e21121153
 
 # Install requirements
 pip3 install -r requirements.txt
